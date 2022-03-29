@@ -1,0 +1,16 @@
+{
+    "name": "cxylibray/test",
+    "description": "test",
+    "autoload": {
+        "psr-4": {
+            "Cxylibray\\Test\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "chenxy",
+            "email": "748544926@qq.com"
+        }
+    ],
+    "require": {}
+}
